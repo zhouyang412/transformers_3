@@ -213,7 +213,7 @@ class BertSelfAttention(nn.Module):
         self,
         hidden_states,
         attention_mask=None,
-        head_mask=None,
+        head_mask=None,transpose
         encoder_hidden_states=None,
         encoder_attention_mask=None,
         output_attentions=False,

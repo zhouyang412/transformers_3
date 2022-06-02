@@ -18,7 +18,7 @@
   "n_embd": 768,
   "n_head": 12,
   "n_layer": 12,
-  "n_positions": 768,
+  "n_positions": 513,
   "n_special": 0,
   "num_labels": 2,
   "output_attentions": false,
@@ -33,5 +33,5 @@
   "summary_use_proj": true,
   "torchscript": false,
   "use_bfloat16": false,
-  "vocab_size": 13111
+  "vocab_size": 13088
 }
